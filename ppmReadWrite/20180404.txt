@@ -1,0 +1,88 @@
+caffe/src/landmarker/zhuCaffe/CaffeLandmarker.cpp(76):../model/pose_net_deploy_l2.prototxt ../model/pose_model_iter_60000.caffemodel
+
+caffe/src/landmarker/zhuCaffe/lmProcessor.cpp(161):../model/pose_net_deploy_l2.prototxt ../model/pose_model_iter_60000.caffemodel
+detect faces: 0
+detect cost time: 54
+detect faces: 0
+detect cost time: 42
+detect faces: 0
+detect cost time: 35
+detect faces: 0
+detect cost time: 38
+detect faces: 0
+detect cost time: 35
+detect faces: 0
+detect cost time: 34
+detect faces: 0
+detect cost time: 33
+detect faces: 0
+detect cost time: 34
+detect faces: 0
+detect cost time: 34
+detect faces: 0
+detect cost time: 34
+detect faces: 1
+detect cost time: 36
+extract cost time: 71
+saveFeaturePath = ../../../img/forAlign/imgprocessed/output/3.jpg00.bin
+0: 269.969788, 149.457718 
+1: 317.636932, 148.411469 
+2: 252.532684, 139.018097 
+3: 280.601746, 137.239380 
+4: 302.707092, 136.273941 
+5: 334.577972, 137.098648 
+6: 292.269165, 147.340607 
+7: 293.107971, 176.336655 
+8: 297.368896, 197.832214 
+9: 299.383087, 212.971039 
+10: 279.862427, 204.545059 
+11: 320.124664, 202.883026 
+12: 307.166565, 183.458328 
+13: 284.374634, 184.732239 
+14: 298.398254, 204.409851 
+15: 295.368713, 186.161865 
+16: 279.359558, 150.014496 
+17: 269.830841, 152.328812 
+18: 261.126801, 150.462006 
+19: 327.682495, 148.769012 
+20: 317.710266, 151.377640 
+21: 308.231659, 149.386490 
+22: 265.603241, 133.261902 
+23: 318.869568, 131.495270 
+24: 302.055756, 241.381653 
+detect faces: 1
+detect cost time: 39
+extract cost time: 43
+saveFeaturePath = ../../../img/forAlign/imgprocessed/output/5.jpg00.bin
+0: 270.028015, 157.393326 
+1: 309.384644, 157.099167 
+2: 256.294464, 147.413452 
+3: 279.291595, 145.724640 
+4: 297.987183, 145.376404 
+5: 323.316711, 146.993805 
+6: 288.645691, 155.328369 
+7: 288.447784, 179.030548 
+8: 290.157684, 197.942444 
+9: 290.918579, 210.083405 
+10: 274.956207, 203.637024 
+11: 307.980835, 203.239563 
+12: 299.098419, 186.533432 
+13: 280.164276, 186.940018 
+14: 290.563599, 203.346130 
+15: 289.650085, 187.927643 
+16: 277.641083, 158.043961 
+17: 269.576263, 159.899536 
+18: 262.456512, 158.114761 
+19: 317.579041, 157.678925 
+20: 309.330872, 159.706314 
+21: 301.461273, 157.864609 
+22: 267.167206, 142.652603 
+23: 311.000458, 141.983353 
+24: 291.775024, 234.764160 
+detect faces: 0
+detect cost time: 35
+detect faces: 0
+detect cost time: 35
+total pic is 14, total detect is 2
+detect rate is 0.142857
+detect average costTime 37ms of 14  pic, extract average costTime 57ms of 2 faces
