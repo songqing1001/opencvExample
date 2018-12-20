@@ -1,0 +1,2 @@
+ ./stereo_match.out ../../image/forAlign/1.jpg  ../../image/forAlign/2.jpg --max-disparity=64  --blocksize=3 -i=intrinsics.yml -e=extrinsics.yml
+
